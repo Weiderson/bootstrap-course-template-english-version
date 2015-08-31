@@ -68,4 +68,3 @@ This template was created using follow [ACB Bootstrap Snippets](https://github.c
 
 Copyright (c) 2015 Antonio Carlos Barbosa
 Released under the MIT license
-
